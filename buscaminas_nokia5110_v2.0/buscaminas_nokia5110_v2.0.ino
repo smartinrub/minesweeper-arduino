@@ -1,5 +1,6 @@
 /*********************************************
 Buscaminas - NOKIA 5110 LCD Display
+ ---> hugrama.dynu.com
 
 The circuit:
  - Powered by Arduino UNO board
@@ -26,7 +27,7 @@ All text above must be included in any redistribution
 #define DIMENSION 6
 #define MINES 5
 //
-//  Image data for minesweeper
+//  Image data for buscaminas
 //
 
 #define LOGO1_HEIGHT 41
